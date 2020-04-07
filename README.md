@@ -30,4 +30,4 @@ Advantages
 1. High accuracy as compared to previous mechanical systems.
 2. We can adjust the changeover speed of winding according to the load
    condition.
-3. We can avoid chances of burning of motor.
+3. We can reduce chances of burning of motor.
